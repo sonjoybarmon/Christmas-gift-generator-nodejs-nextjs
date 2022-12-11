@@ -93,6 +93,7 @@ export default function Home() {
           />
           <input type="submit" value="Generate gift ideas" />
         </form>
+        <br />
         {loading && (
           <div>
             <h3>Looking for the best gift ideas 🎁 💡</h3>
